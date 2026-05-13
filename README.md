@@ -121,3 +121,7 @@ All adapters are LoRA fine-tunes on `meta-llama/Llama-3.3-70B-Instruct`.
 **Apache License 2.0** — Copyright 2026 Ronin 48, LLC.
 
 Base model weights are subject to the [Meta Llama 3.1 Community License](https://llama.meta.com/llama3/license/). All fine-tuned adapter weights and original contributions remain Apache 2.0.
+
+---
+
+Proudly Made in Nebraska. Go Big Red!
