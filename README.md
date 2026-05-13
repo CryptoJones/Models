@@ -22,8 +22,9 @@ All models are free, open-source (Apache 2.0), and built to be run locally — o
 
 ### SELMA — Statute Enumeration and Legal Mapping Assistant
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fselma--lora--adapter-yellow)](https://huggingface.co/Ronin48LLC/selma-lora-adapter)
-[![Repo](https://img.shields.io/badge/Codeberg-Ronin48%2FSELMA-blue)](https://codeberg.org/Ronin48/SELMA)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fselma--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/selma-lora-adapter)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FSELMA-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/SELMA)
+[![GitHub](https://img.shields.io/badge/GitHub-CryptoJones%2FSELMA-181717?logo=github&logoColor=white)](https://github.com/CryptoJones/SELMA)
 
 Given a factual description of a crime or incident, SELMA identifies applicable federal and state statutes, elements of each offense, sentencing ranges, and the legal reasoning connecting the facts to the charges.
 
@@ -35,8 +36,9 @@ Given a factual description of a crime or incident, SELMA identifies applicable 
 
 ### ABBY — Artifact, Ballistic, and Binary Yield
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fabby--lora--adapter-yellow)](https://huggingface.co/Ronin48LLC/abby-lora-adapter)
-[![Repo](https://img.shields.io/badge/Codeberg-Ronin48%2FABBY-blue)](https://codeberg.org/Ronin48/ABBY)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fabby--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/abby-lora-adapter)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FABBY-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/ABBY)
+[![GitHub](https://img.shields.io/badge/GitHub-CryptoJones%2FABBY-181717?logo=github&logoColor=white)](https://github.com/CryptoJones/ABBY)
 
 Named after Abby Sciuto from NCIS. Given an evidence description or examination request, ABBY identifies the correct forensic methodology, applicable legal standards for admissibility, chain-of-custody requirements, and relevant statutes governing digital and physical evidence.
 
@@ -48,8 +50,9 @@ Named after Abby Sciuto from NCIS. Given an evidence description or examination 
 
 ### BONES — Biomedical On-scene Navigator for Emergency Services
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fbones--lora--adapter-yellow)](https://huggingface.co/Ronin48LLC/bones-lora-adapter)
-[![Repo](https://img.shields.io/badge/Codeberg-Ronin48%2FBONES-blue)](https://codeberg.org/Ronin48/BONES)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fbones--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/bones-lora-adapter)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FBONES-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/BONES)
+[![GitHub](https://img.shields.io/badge/GitHub-CryptoJones%2FBONES-181717?logo=github&logoColor=white)](https://github.com/CryptoJones/BONES)
 
 Named after Dr. Leonard "Bones" McCoy. Given a patient presentation or dispatch scenario, BONES provides protocol guidance, drug references, triage support, and clinical decision support across the full EMS scope of practice chain.
 
@@ -61,8 +64,9 @@ Named after Dr. Leonard "Bones" McCoy. Given a patient presentation or dispatch 
 
 ### BRUNO — Building Rescue and Unified Navigation Operations
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fbruno--lora--adapter-yellow)](https://huggingface.co/Ronin48LLC/bruno-lora-adapter)
-[![Repo](https://img.shields.io/badge/Codeberg-Ronin48%2FBRUNO-blue)](https://codeberg.org/Ronin48/BRUNO)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fbruno--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/bruno-lora-adapter)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FBRUNO-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/BRUNO)
+[![GitHub](https://img.shields.io/badge/GitHub-CryptoJones%2FBRUNO-181717?logo=github&logoColor=white)](https://github.com/CryptoJones/BRUNO)
 
 Named after Chief Alan Brunacini of the Phoenix Fire Department — the father of modern Incident Command. Given a fireground scenario, BRUNO provides tactical guidance, ICS structure, hazmat references, and rescue decision support.
 
@@ -74,7 +78,9 @@ Named after Chief Alan Brunacini of the Phoenix Fire Department — the father o
 
 ### ATTICUS — Coming Soon
 
-[![Repo](https://img.shields.io/badge/Codeberg-Ronin48%2FATTICUS-blue)](https://codeberg.org/Ronin48/ATTICUS)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fatticus--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/atticus-lora-adapter)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FATTICUS-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/ATTICUS)
+[![GitHub](https://img.shields.io/badge/GitHub-CryptoJones%2FATTICUS-181717?logo=github&logoColor=white)](https://github.com/CryptoJones/ATTICUS)
 
 Named after Atticus Finch. ATTICUS provides defense strategy analysis, constitutional violation identification, and evidentiary weakness assessment.
 
