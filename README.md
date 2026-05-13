@@ -124,4 +124,4 @@ Base model weights are subject to the [Meta Llama 3.1 Community License](https:/
 
 ---
 
-Proudly Made in Nebraska. Go Big Red!
+Proudly Made in Nebraska. Go Big Red! 🌽
