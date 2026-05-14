@@ -76,7 +76,7 @@ Named after Chief Alan Brunacini of the Phoenix Fire Department — the father o
 
 ---
 
-### ATTICUS — Coming Soon
+### ATTICUS
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Ronin48LLC%2Fatticus--lora--adapter-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Ronin48LLC/atticus-lora-adapter)
 [![Codeberg](https://img.shields.io/badge/Codeberg-Ronin48%2FATTICUS-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/Ronin48/ATTICUS)
@@ -86,7 +86,7 @@ Named after Atticus Finch. ATTICUS provides defense strategy analysis, constitut
 
 **Built for:** Public defenders and defense attorneys.
 
-**Status:** Training data in development.
+**Built for:** Public defenders and defense attorneys.
 
 ---
 
@@ -116,9 +116,9 @@ All adapters are LoRA fine-tunes on `meta-llama/Llama-3.3-70B-Instruct`.
 |-------|-------------|--------|
 | SELMA | [Ronin48LLC/selma-lora-adapter](https://huggingface.co/Ronin48LLC/selma-lora-adapter) | Available |
 | ABBY | [Ronin48LLC/abby-lora-adapter](https://huggingface.co/Ronin48LLC/abby-lora-adapter) | Available |
-| BONES | [Ronin48LLC/bones-lora-adapter](https://huggingface.co/Ronin48LLC/bones-lora-adapter) | Training |
-| BRUNO | [Ronin48LLC/bruno-lora-adapter](https://huggingface.co/Ronin48LLC/bruno-lora-adapter) | Training |
-| ATTICUS | [Ronin48LLC/atticus-lora-adapter](https://huggingface.co/Ronin48LLC/atticus-lora-adapter) | Pending |
+| BONES | [Ronin48LLC/bones-lora-adapter](https://huggingface.co/Ronin48LLC/bones-lora-adapter) | Available |
+| BRUNO | [Ronin48LLC/bruno-lora-adapter](https://huggingface.co/Ronin48LLC/bruno-lora-adapter) | Available |
+| ATTICUS | [Ronin48LLC/atticus-lora-adapter](https://huggingface.co/Ronin48LLC/atticus-lora-adapter) | Available |
 
 ---
 
