@@ -421,6 +421,33 @@ GPU never activated. Disk had plenty of free space.
 
 ---
 
+### Error #23 — SFTTrainer `dataset_text_field` Moved to `SFTConfig` (trl 0.12+)
+
+**Error:**
+```
+TypeError: SFTTrainer.__init__() got an unexpected keyword argument 'dataset_text_field'
+```
+
+**Cause:** trl 0.12 moved `dataset_text_field` from `SFTTrainer` into `SFTConfig`, same as
+`max_seq_length` (Error #16) and `tokenizer` → `processing_class` (Error #15).
+
+**Fix:** Move it to `SFTConfig`:
+```python
+training_args = SFTConfig(
+    dataset_text_field="text",   # ← here, not in SFTTrainer
+    max_seq_length=...,
+    ...
+)
+trainer = SFTTrainer(
+    model=model,
+    processing_class=tokenizer,
+    args=training_args,
+    ...
+)
+```
+
+---
+
 ## Contributing
 
 If you hit a new error and fix it, add it here. The people walking behind you will thank you.
